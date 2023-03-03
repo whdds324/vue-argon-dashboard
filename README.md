@@ -4,15 +4,18 @@
 
 ![Image](https://s3.amazonaws.com/creativetim_bucket/products/156/original/vue-argon-dashboard.jpg)
 
-Start your Development with an Innovative Admin Template for Bootstrap 5 and VueJS 3. If you like the look & feel of the hottest design trend right now, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
-
-**Fully Coded Components**<br />
-Vue Argon Dashboard 2 is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. All components can take variations in color, which you can easily modify using SASS files and classes. You will save a lot of time going from prototyping to full-functional code because all elements are implemented.
-
-This free Bootstrap 5 & VueJS 3 Dashboard is coming with prebuilt design blocks, so the development process is seamless,
-switching from our pages to the real website is very easy to be done.
-
 View [all components here](https://www.creative-tim.com/learning-lab/vue/alerts/argon-dashboard/).
+
+**초기 설정 꿀팁**<br />
+1. node 설치 > 버전확인 [node -v] >  
+2. git 설치
+3. vscode 설치
+4. 소스내려받기 https://github.com/whdds324/bootstrap-vue-argon-dashboard.git
+5. 프로젝트 루트에서 > npm install
+6. local 올리기 > npm serve
+7. npm serve 시 [error:0308010C:digital envelope routines::unsupported] 에러 발생할 경우 node 버전 다운그레이드 해야함(https://ahn3330.tistory.com/45)
+8. 저는 16.13.0 .버전 사용
+
 
 **Documentation built by Developers**<br />
 Each element is well presented in very complex documentation.
@@ -27,14 +30,6 @@ View [example pages here](https://demos.creative-tim.com/vue-argon-dashboard/).
 
 - View [Github Repository](https://github.com/creativetimofficial/vue-argon-dashboard)
 - Check [FAQ Page](https://www.creative-tim.com/faq)
-
-#### Special thanks
-
-During the development of this dashboard, we have used many existing resources from awesome developers. We want to thank them for providing their tools open source:
-
-- [Popper.js](https://popper.js.org/) - Kickass library used to manage poppers
-
-Let us know your thoughts below. And good luck with development!
 
 ## Table of Contents
 
